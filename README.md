@@ -10,3 +10,4 @@ If the guessed letter is present in the Randomly picked word, It will show its p
 If the guessed letter is not present in the Randomly picked word, user will lose one attempt, and will be opted to try again. 
 Once the user guessed all the letters correctly, He will win the game
 If the user was not able to guess all the letters correctly, He will Lose the game
+### Theme based on The Matrix 
